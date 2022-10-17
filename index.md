@@ -1,23 +1,24 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Gabriel Espinoza
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Gabriel Espinoza
+Software Engineer | Senior Business Analyst at Globant | Technical Product Manager for Latam Airlines
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  
+<a href="https://gabriel-espinoza.github.io/cv-english">https://gabriel-espinoza.github.io/cv-english/</a>
+| <a href="https://www.linkedin.com/in/espinozag/">My Linkedin</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
+## Introduction
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+I am a Computer and Informatics Engineer, trained at Universidad Andrés Bello, with more than 12 years of experience in software development, I have been a developer, technical leader, business analyst and Product Manager, going through various shades intermediate.
+
+My passion for developing solutions that deliver real value has led me to study Diplomas in Planning and Project Management (UCH), Leadership and Lean Management (PUC) and obtain some certifications from the Agile world (Scrum and Kanban).
 
 
 ### Research interests
