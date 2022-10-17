@@ -70,7 +70,7 @@ As Head of Development, I was leading two important projects: the development of
 ### .NET Developer
 `2009 - 2012`
 
-I dedicated these first three years of my professional life to working as a .NET developer. I worked for [G4S](https://www.g4s.com/es-cl), [Gepro](https://gepro.cl/) (formerly known as Gepuc) and [Pricing](https://www.pricing.cl/). I developed systems for project management, human resources and revenue management.
+I dedicated my first three years of my professional life to work as a .NET developer. I worked for [G4S](https://www.g4s.com/es-cl), [Gepro](https://gepro.cl/) (formerly known as Gepuc) and [Pricing](https://www.pricing.cl/). I developed software to manage projects, manage human resources and revenue management.
 
 
 
