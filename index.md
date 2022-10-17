@@ -21,7 +21,7 @@ My passion for developing solutions that deliver real value has led me to study 
 ### Technical Product Manager
 `July, 2022 onwards`
 
-Currently working for Latam Airlines as a Technical Product Manager. Owner of two core tech products, we provide services for managing shopping carts, order management system and services for managing flight itineraries.
+Currently working as a Technical Product Manager for Latam Airlines. Owner of two core tech products, we provide services for managing shopping carts, order management system and services for managing flight itineraries.
 
 Switching the way to prioritize work to make it Data Driven, creating dashboards and providing transparency to our Stakeholders, looking to minimize our passenger's pain points.
 
@@ -35,9 +35,20 @@ Leader in transversal initiatives of the program, providing clarity and perspect
 At Tech Order I have had the opportunity to develop an end-to-end vision of the processes, which allowed me to be a fundamental piece in the development of the miles redemption track, coordinating the work of all the teams, offering solutions and diagrams that explained the expected behavior of each of the artifacts.
 
 
-### Business Analyst
+### Business Analyst @ Latam Airlines
 `August, 2019 - March, 2020`
 
+Worked as Business Analyst for Latam Airlines. 
+
+Latam decided to reinvent airline paradigms by switching to a retail model and decided it wanted to provide an experience 100% digital to every passenger.
+
+Stared this paradigm shift with a greenfield project as Business Analyst performing in Payments Team. Designed an API maturity model that would allow the elimination of impediments at program level. The arrangement of maturity levels of our endpoints and artifacts allowed us to be of the first teams to effectively enable others in a very short time.
+
+Designed and implemented an API to carry out the Fulfillment of an order (purchase and issuance of documents) of the new digital experience.
+
+Designed and implemented an API to refund orders.
+
+Designed and implemented a Virtual Wallet to facilitate payment and refund processes that are very heterogeneous throughout Latin America.
 
 
 
