@@ -6,9 +6,7 @@ title: Gabriel Espinoza
 Software Engineer | Senior Business Analyst at Globant | Technical Product Manager for Latam Airlines
 
 <div id="webaddress">
-  
-<a href="https://gabriel-espinoza.github.io/cv-english">https://gabriel-espinoza.github.io/cv-english/</a>
-| <a href="https://www.linkedin.com/in/espinozag/">My Linkedin</a>
+  <a href="https://www.linkedin.com/in/espinozag/">My Linkedin</a>
 </div>
 
 
