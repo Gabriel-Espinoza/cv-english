@@ -3,7 +3,7 @@ layout: cv
 title: Gabriel Espinoza
 ---
 # Gabriel Espinoza
-Software Engineer | Senior Business Analyst at Globant | Technical Product Manager for Latam Airlines
+Software Engineer, Senior Business Analyst @ Globant, Technical Product Manager @ Latam Airlines
 
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/espinozag/">My Linkedin</a>
@@ -12,11 +12,33 @@ Software Engineer | Senior Business Analyst at Globant | Technical Product Manag
 
 ## Introduction
 
-### Specialized in
+I am a Computer and Informatics Engineer, trained at Universidad Andrés Bello, with more than 12 years of experience in software development, I've worked as a developer, technical leader, business analyst and Product Manager.
 
-I am a Computer and Informatics Engineer, trained at Universidad Andrés Bello, with more than 12 years of experience in software development, I have been a developer, technical leader, business analyst and Product Manager, going through various shades intermediate.
+My passion for developing solutions that deliver real value has led me to study Diplomas in Project Management (UCH), Leadership and Lean Management (PUC) and obtain some certifications from the Agile world (Scrum and Kanban).
 
-My passion for developing solutions that deliver real value has led me to study Diplomas in Planning and Project Management (UCH), Leadership and Lean Management (PUC) and obtain some certifications from the Agile world (Scrum and Kanban).
+## Work Experience
+
+### Technical Product Manager
+`July, 2022 onwards`
+
+Currently working for Latam Airlines as a Technical Product Manager. Owner of two core tech products, we provide services for managing shopping carts, order management system and services for managing flight itineraries.
+
+Switching the way to prioritize work to make it Data Driven, creating dashboards and providing transparency to our Stakeholders, looking to minimize our passenger's pain points.
+
+### Business Analyst
+`March, 2020 - June, 2022`
+
+Worked as Business Analyst for Latam Airlines. 
+
+Leader in transversal initiatives of the program, providing clarity and perspective to different domains involved, defining processes and limits, fostering the collaboration of all those involved.
+
+At Tech Order I have had the opportunity to develop an end-to-end vision of the processes, which allowed me to be a fundamental piece in the development of the miles redemption track, coordinating the work of all the teams, offering solutions and diagrams that explained the expected behavior of each of the artifacts.
+
+
+### Business Analyst
+`August, 2019 - March, 2020`
+
+
 
 
 ### Research interests
